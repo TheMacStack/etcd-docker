@@ -1,4 +1,4 @@
-FROM amazonlinux:2.0.20200406.0 as builder
+FROM amazonlinux:2.0.20200406.0
 
 ARG ETCD_VER=v3.4.8
 ARG GITHUB_URL=https://github.com/etcd-io/etcd/releases/download
