@@ -1,3 +1,3 @@
 # etcd-docker
 
-DEMO: Package etcd as docker image 
+DEMO: etcd as docker image 
